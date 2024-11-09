@@ -5,7 +5,7 @@ A Full Stack Developer with focused expertise in front-end development and over 
 
 ### Skills:
 **Back-End:** Ruby, Rails, MySQL and PostgreSQL.  
-**Front-End:** JavaScript, TypeScript, React, Redux, HTML5, CSS3, Bootstrap, Tailwind CSS.   
+**Front-End:** JavaScript, TypeScript, React, Redux, Electron JS, HTML5, CSS3, Bootstrap, Tailwind CSS.   
 **Professional:** Remote Pair-Programming, Teamwork, Mentoring, Code-Reviewing.  
 **Tools & Methods:** Git, GitHub, Netlify, Mobile/Responsive Development, RSpec, TDD, Figma.  
 
