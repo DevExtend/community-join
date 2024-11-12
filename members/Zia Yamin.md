@@ -6,4 +6,5 @@ Driven by a passion for learning emerging technologies and committed to a growth
 
 **Skills/Interests**:  
 👩‍💻 I'm currently working on *G&M Direct Hire webiste maintenance and Autodeal website.*
+
 🧠 I'm currently learning JAVASCRIPT related techs and enhance my knowledge about SEO.
