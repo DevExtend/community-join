@@ -1,0 +1,1 @@
+Hi everyone, I’m Ramez Rayyan, specialized in Software Engineering with expertise in software development, mobile and desktop app creation, and API development. I am a self-driven developer, currently part of the Asia Pharma Development team, ARAD, and lead my own team, ZoRa Tech, where we work on our ideas and projects.
